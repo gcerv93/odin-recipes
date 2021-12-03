@@ -1,0 +1,1 @@
+I will be using HTML knowledge to build a basic recipe website. I will also be getting used to the git workflow aswell as getting more practice with the command line on Linux.
